@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+#buttons {
+    position: absolute;
+    width: 20vw;
+    height: 5vw;
+    background-color: darkorange;
+    z-index: 50;
+}
+
+button {
+    position: relative;
+
+}
+
+#deathstar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#laser {
+    position: absolute;
+    left: 44.5%;
+    top: 44.5%;
+    transform: translate(-50%, -50%) rotate(-50deg);
+    opacity: 0;
+}

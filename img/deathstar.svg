@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <g id="deathstar" transform="translate(-308 652)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="250" cy="250" r="250" transform="translate(308 -652)" fill="#303030"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="250" cy="250" r="250" transform="translate(308 -652)" fill="#303030"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(376 -559)" fill="#747474" stroke="#000" stroke-width="7">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="71.5" fill="none"/>
+    </g>
+    <g id="Polygon_1" data-name="Polygon 1" transform="matrix(0.719, -0.695, 0.695, 0.719, 349.25, -491.917)" fill="none">
+      <path d="M62.5,0l1.25,82.5L125,125,62.5,85,0,125,61.25,82.5Z" stroke="none"/>
+      <path d="M 62.49999237060547 0 L 63.74999237060547 82.5 L 124.9999923706055 125 L 62.49999237060547 85 L -7.62939453125e-06 125 L 61.24999237060547 82.5 L 62.49999237060547 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="500" height="7" transform="translate(308 -402)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="304" height="8" transform="translate(495 -358)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="304" height="8" transform="translate(406 -598)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="364" height="6" transform="translate(426 -313)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="218" height="6" transform="translate(383 -231)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="364" height="6" transform="translate(313 -379)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="195" height="6" transform="translate(587 -292)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="195" height="6" transform="translate(461 -182)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="195" height="6" transform="translate(363 -253)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="168" height="6" transform="translate(533 -203)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="168" height="6" transform="translate(509 -626)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="168" height="6" transform="translate(582 -559)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="198" height="6" transform="translate(533 -581)"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="236" height="6" transform="translate(570 -434)"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="128" height="6" transform="translate(671 -477)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="128" height="6" transform="translate(637 -537)"/>
+  </g>
+</svg>
